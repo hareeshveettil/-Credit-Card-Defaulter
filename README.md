@@ -53,11 +53,6 @@ Install all the requirements by running requirements.txt
 ```cmd
   pip install -r requirements.txt
 ```
-    
-## Authors
-
-- [@BijoyKumarRoy](https://www.linkedin.com/in/bijoy-kumar-roy-4b0975189/)
-- [@SumeghSen](https://www.linkedin.com/in/sumegh-sen-4762a0213/)
 
   
 "# -Credit-Card-Defaulter" 
